@@ -1,1 +1,48 @@
-IyBLM3lwaXNzciBOdWtlQmFyIOKAlCBDaHJvbWUKCkszeXBpc3NyIE51a2VCYXIgMy4wLjAg4oCUIHRoZSBjbGFzc2ljIEhhY2tCYXIgcmVidWlsdCBmb3IgY3VycmVudCBDaHJvbWl1bSBicm93c2VycywgbWVyZ2luZyBIYWNrQmFyIHYyLjkgKyBNb2QgcGF5bG9hZHMgd2l0aCBoZWFkZXIgcmVwbGF5LCBkZWNvZGVyLCBBZG1pbiBGaW5kZXIsIFJldmVyc2UgSVAgYW5kIG5ldHdvcmsgdmlld2VyLgoKPiBPZmZlbnNpdmUgc2VjdXJpdHkgbWF0ZXJpYWwuIFVzZSBvbmx5IGFnYWluc3Qgc3lzdGVtcyB5b3Ugb3duIG9yIGhhdmUgZXhwbGljaXQgcGVybWlzc2lvbiB0byB0ZXN0LgoKIyMgU2NyZWVuc2hvdHMKCiFbSzN5cGlzc3IgTnVrZUJhciBwYW5lbCDigJQgQ2hyb21lXShzY3JlZW5zaG90cy9wYW5lbC5wbmcpCgojIyBJbnN0YWxsIChDaHJvbWUgMTE2KykKCjEuIERvd25sb2FkIHRoaXMgcmVwbyAob3IgdGhlIGBrM3lwaXNzci1udWtlYmFyLTMuMC1jaHJvbWUuemlwYCByZWxlYXNlIGFzc2V0KS4KMi4gT3BlbiBgY2hyb21lOi8vZXh0ZW5zaW9uc2AsIHR1cm4gb24gKipEZXZlbG9wZXIgbW9kZSoqLgozLiBDbGljayAqKkxvYWQgdW5wYWNrZWQqKiBhbmQgcGljayB0aGlzIGZvbGRlci4KNC4gUHJlc3MgKipGOSoqIG9uIGFueSBwYWdlIHRvIHRvZ2dsZSB0aGUgcGFuZWwuCgojIyBXaGF0IGlzIGluY2x1ZGVkCgotIE1lcmdlZCBTUUwsIFdBRiwgVU5JT04sIExGSSwgWFNTLCBlbmNvZGluZyBhbmQgdG9vbCBtZW51cyDigJQgMyw2NTIgcGF5bG9hZCBlbnRyaWVzIGFjcm9zcyAxNzcgbWVudXMgKFBybzogMyw0NDAgaXRlbXMsIE1vZDogNDIwIGl0ZW1zLCBzb3VyY2UtdGFnZ2VkIFAgLyBNKQotIExvYWQgVVJMLCBzcGxpdCBVUkwsIFBPU1QgYm9keSwgY3VzdG9tIFJlZmVyZXIgYW5kIENvb2tpZSBoZWFkZXJzICh2aWEgYGRlY2xhcmF0aXZlTmV0UmVxdWVzdGAgc2Vzc2lvbiBydWxlcyBvbiBDaHJvbWl1bSkKLSBSZXNwb25zZSB2aWV3ZXIgd2l0aCBzYW5kYm94ZWQgcHJldmlldyBhbmQgaGVhZGVyIHRhYmxlCi0gTG9jYWwgZGVjb2RlciAvIGVuY29kZXIgdG9vbGtpdCBhbmQgaGFzaCBoZWxwZXJzCi0gQWRtaW4gRmluZGVyIHdvcmRsaXN0IHNjYW5uZXIsIFJldmVyc2UgSVAgbG9va3VwLCBuZXR3b3JrIHZpZXdlcgotIERJT1MgLyBRVUVSWSAvIFhTUyBwYXlsb2FkIHByZWZlcmVuY2VzIGFuZCBjdXN0b20gcGF5bG9hZHMKLSBMaWdodCBhbmQgZGFyayB0aGVtZXMKCktleWJvYXJkOiBgRjlgIHRvZ2dsZSBwYW5lbCDCtyBgQWx0K0FgIGxvYWQgY3VycmVudCByZXF1ZXN0IMK3IGBBbHQrWGAgZXhlY3V0ZSDCtyBgQWx0K1NgIHNwbGl0IFVSTCDCtyBgQWx0K+KGkWAgLyBgQWx0K+KGk2AgaW5jcmVtZW50IC8gZGVjcmVtZW50CgojIyBMYXlvdXQKCmBgYAptYW5pZmVzdC5qc29uICAgICAgICAgIE1hbmlmZXN0IFYzLCBDaHJvbWUgMTE2KwpiYWNrZ3JvdW5kLmpzICAgICAgICAgIFNlcnZpY2Ugd29ya2VyOiBoZWFkZXIgcmVwbGF5LCBQT1NUIHJlcGxheSwgdmlld2VyLCBuZXR3b3JrIGxvZwpjb250ZW50LyAgICAgICAgICAgICAgIFBhbmVsIFVJICsgcGF5bG9hZCBlbmdpbmVzIChwcm8gLyBtb2QgLyBzaGFyZWQpICsgZ2VuZXJhdGVkIHBheWxvYWRzCnBhZ2VzLyAgICAgICAgICAgICAgICAgUG9wdXAsIG9wdGlvbnMsIGFib3V0LCBwb3N0ZXIsIHZpZXdlciwgZGVjb2RlciwgQWRtaW4gRmluZGVyLCBSZXZlcnNlIElQLCBuZXR3b3JrLCB0YW1wZXIsIHJlZGlyZWN0cwppY29ucy8gICAgICAgICAgICAgICAgIEljb24gc2V0CkNSRURJVFMubWQgICAgICAgICAgICAgRnVsbCB1cHN0cmVhbSBjcmVkaXRzIOKAlCBtb3N0IHBheWxvYWQgdGV4dCwgbWVudSBsYWJlbHMsIGljb25zIGFuZCBoYW5kbGVyIGxvZ2ljIHdlcmUgd3JpdHRlbiBieSBvdGhlciBwZW9wbGUKTElDRU5TRSAgICAgICAgICAgICAgICBHUEwtMi4wLW9yLWxhdGVyCmBgYAoKIyMgQ3JlZGl0cyAvIGxpY2VuY2UKCkJ1aWx0IGZyb20gSGFja0JhciBQcm8gdjIuOSAoUGguSGl0YWNoaSkgYW5kIHRoZSBrM3lwaXNzciAvIDN4cDEwcmVYIE1vZCwgb3JpZ2luYXRpbmcgd2l0aCBQZWRybyBMYWd1bmEgYW5kIEpvaGFuIEFkcmlhYW5zLiBTZWUgYENSRURJVFMubWRgIGZvciB0aGUgZnVsbCBicmVha2Rvd24uCgpSZWxlYXNlZCB1bmRlciB0aGUgR05VIEdlbmVyYWwgUHVibGljIExpY2Vuc2UsIHZlcnNpb24gMiBvciBsYXRlci4gVGhpcyBpcyBhbiB1bm9mZmljaWFsIGNvbW11bml0eSByZWJ1aWxkIOKAlCBub3QgYWZmaWxpYXRlZCB3aXRoLCBlbmRvcnNlZCBieSBvciBzdXBwb3J0ZWQgYnkgTW96aWxsYSwgR29vZ2xlLCBQZWRybyBMYWd1bmEsIFBoLkhpdGFjaGksIDN4cDEwcmVYIG9yIGFueSBvdGhlciBvcmlnaW5hbCBhdXRob3IuCgpTZWUgYWxzbzogKipLM3lwaXNzciBOdWtlQmFyIOKAlCBGaXJlZm94Kiog4oCUIGh0dHBzOi8vZ2l0aHViLmNvbS9rM3lwaXNzci9udWtlYmFyLWZpcmVmb3ggKHNhbWUgMy4wLjAgYnVpbGQgZm9yIEZpcmVmb3gsIHBsdXMgdGhlIGxlZ2FjeSBYVUwgYnVpbGQgZm9yIEZpcmVmb3ggMS414oCTNi4wKS4K
+# K3ypissr NukeBar — Chrome
+
+K3ypissr NukeBar 3.0.0 — the classic HackBar rebuilt for current Chromium browsers, merging HackBar v2.9 + Mod payloads with header replay, decoder, Admin Finder, Reverse IP and network viewer.
+
+> Offensive security material. Use only against systems you own or have explicit permission to test.
+
+## Screenshots
+
+![K3ypissr NukeBar panel — Chrome](screenshots/panel.png)
+
+## Install (Chrome 116+)
+
+1. Download this repo (or the `k3ypissr-nukebar-3.0-chrome.zip` release asset).
+2. Open `chrome://extensions`, turn on **Developer mode**.
+3. Click **Load unpacked** and pick this folder.
+4. Press **F9** on any page to toggle the panel.
+
+## What is included
+
+- Merged SQL, WAF, UNION, LFI, XSS, encoding and tool menus — 3,652 payload entries across 177 menus (Pro: 3,440 items, Mod: 420 items, source-tagged P / M)
+- Load URL, split URL, POST body, custom Referer and Cookie headers (via `declarativeNetRequest` session rules on Chromium)
+- Response viewer with sandboxed preview and header table
+- Local decoder / encoder toolkit and hash helpers
+- Admin Finder wordlist scanner, Reverse IP lookup, network viewer
+- DIOS / QUERY / XSS payload preferences and custom payloads
+- Light and dark themes
+
+Keyboard: `F9` toggle panel · `Alt+A` load current request · `Alt+X` execute · `Alt+S` split URL · `Alt+↑` / `Alt+↓` increment / decrement
+
+## Layout
+
+```
+manifest.json          Manifest V3, Chrome 116+
+background.js          Service worker: header replay, POST replay, viewer, network log
+content/               Panel UI + payload engines (pro / mod / shared) + generated payloads
+pages/                 Popup, options, about, poster, viewer, decoder, Admin Finder, Reverse IP, network, tamper, redirects
+icons/                 Icon set
+CREDITS.md             Full upstream credits — most payload text, menu labels, icons and handler logic were written by other people
+LICENSE                GPL-2.0-or-later
+```
+
+## Credits / licence
+
+Built from HackBar Pro v2.9 (Ph.Hitachi) and the k3ypissr / 3xp10reX Mod, originating with Pedro Laguna and Johan Adriaans. See `CREDITS.md` for the full breakdown.
+
+Released under the GNU General Public License, version 2 or later. This is an unofficial community rebuild — not affiliated with, endorsed by or supported by Mozilla, Google, Pedro Laguna, Ph.Hitachi, 3xp10reX or any other original author.
+
+See also: **K3ypissr NukeBar — Firefox** — https://github.com/k3ypissr/nukebar-firefox (same 3.0.0 build for Firefox, plus the legacy XUL build for Firefox 1.5–6.0).
