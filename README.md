@@ -41,7 +41,7 @@ LICENSE                GPL-2.0-or-later
 
 ## Credits / licence
 
-Built from HackBar Pro v2.9 (Ph.Hitachi) and the k3ypissr / 3xp10reX Mod, originating with Pedro Laguna and Johan Adriaans. See `CREDITS.md` for the full breakdown.
+Built from HackBar Pro v2.9 (Ph.Hitachi) and the 3xp10reX Mod, originating with Pedro Laguna and Johan Adriaans. See `CREDITS.md` for the full breakdown.
 
 Released under the GNU General Public License, version 2 or later. This is an unofficial community rebuild — not affiliated with, endorsed by or supported by Mozilla, Google, Pedro Laguna, Ph.Hitachi, 3xp10reX or any other original author.
 
